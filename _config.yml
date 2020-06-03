@@ -34,6 +34,7 @@ limit_posts: 0
 keep_files: ["assets/", "assets/css/bootstrap.min.css", "assets/css/site.css", "assets/images/"]
 plugins:
   - jekyll-feed
+  - jekyll-admin
 
 
 # Exclude from processing.
