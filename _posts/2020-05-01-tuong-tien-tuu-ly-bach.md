@@ -26,10 +26,9 @@ author:
   last_name: Trần
 permalink: "/2020/05/01/tuong-tien-tuu-ly-bach/"
 ---
-
-<p>   
+ 
 Lý Thái Bạch say dài chẳng tỉnh, chung cổ không mong, thánh hiền không vọng, thật đã ngang tàng, nhưng gái lầu xanh thân làm kẻ bán vui mà không biết đén cái xuân, cảnh đẹp chẳng màng, tri âm chẳng tưởng, lòng đau thấm thía bao nhiêu !  
-**Bằng Vân -***Khúc Đoạn Trường , Lời bình luận toàn khúc.*</p>
+**Bằng Vân** *Khúc Đoạn Trường , Lời bình luận toàn khúc.*
 <p></p>
 <p></p>
 <p>[NHL] Đại Cương Văn Học Sử Trung Quốc</p>
@@ -200,107 +199,107 @@ Nhân sinh đắc ý tu tận hoan,
 *Đời người khi nào đắc ý nên tận tình vui sướng*
 
 
-[莫][使][金][樽](https://hvdic.thivien.net/whv/%E6%A8%BD)[空](https://hvdic.thivien.net/whv/%E7%A9%BA)[對](https://hvdic.thivien.net/whv/%E5%B0%8D)[月](https://hvdic.thivien.net/whv/%E6%9C%88)。  
+[莫][使][金][樽][月]。  
 Mạc sử kim tôn không đối nguyệt!  
 *Đừng để chén rượu vàng cạn queo nhìn vầng trăng*
 
 
-[天](https://hvdic.thivien.net/whv/%E5%A4%A9)[生](https://hvdic.thivien.net/whv/%E7%94%9F)[我](https://hvdic.thivien.net/whv/%E6%88%91)[才](https://hvdic.thivien.net/whv/%E6%89%8D)[必](https://hvdic.thivien.net/whv/%E5%BF%85)[有](https://hvdic.thivien.net/whv/%E6%9C%89)[用](https://hvdic.thivien.net/whv/%E7%94%A8)，  
+[天][生][我][才][必][有][用]，  
 Thiên sinh ngã tài tất hữu dụng,  
 *Trời sinh ra ta có tài thì ắt sẽ được dùng*
 
 
-[千](https://hvdic.thivien.net/whv/%E5%8D%83)[金](https://hvdic.thivien.net/whv/%E9%87%91)[散](https://hvdic.thivien.net/whv/%E6%95%A3)[盡](https://hvdic.thivien.net/whv/%E7%9B%A1)[還](https://hvdic.thivien.net/whv/%E9%82%84)[復](https://hvdic.thivien.net/whv/%E5%BE%A9)[來](https://hvdic.thivien.net/whv/%E4%BE%86)。  
+[千][金][散][盡][還][復][來]。  
 Thiên kim tán tận hoàn phục lai.  
 *Ngàn vàng tiêu sạch hết rồi sẽ có trở lại*
 
 
-[烹](https://hvdic.thivien.net/whv/%E7%83%B9)[羊](https://hvdic.thivien.net/whv/%E7%BE%8A)[宰](https://hvdic.thivien.net/whv/%E5%AE%B0)[牛](https://hvdic.thivien.net/whv/%E7%89%9B)[且](https://hvdic.thivien.net/whv/%E4%B8%94)[為](https://hvdic.thivien.net/whv/%E7%82%BA)[樂](https://hvdic.thivien.net/whv/%E6%A8%82)，  
+[烹][羊][宰][牛][且][為][樂]，  
 Phanh dương tể ngưu thả vi lạc,  
 *Mổ dê giết trâu cứ vui cái đã*
 
 
-[會](https://hvdic.thivien.net/whv/%E6%9C%83)[須](https://hvdic.thivien.net/whv/%E9%A0%88)[一](https://hvdic.thivien.net/whv/%E4%B8%80)[飲](https://hvdic.thivien.net/whv/%E9%A3%B2)[三](https://hvdic.thivien.net/whv/%E4%B8%89)[百](https://hvdic.thivien.net/whv/%E7%99%BE)[杯](https://hvdic.thivien.net/whv/%E6%9D%AF)。  
+[會][須][一][飲][三][百][杯]。  
 Hội tu nhất ẩm tam bách bôi.  
 *Uống một lần ba trăm ly rồi hãy tính*
 
 
-[岑](https://hvdic.thivien.net/whv/%E5%B2%91)[夫](https://hvdic.thivien.net/whv/%E5%A4%AB)[子](https://hvdic.thivien.net/whv/%E5%AD%90)，  
+[岑][夫][子]，  
 Sầm phu tử,  
 *Này ông bạn họ Sầm*
 
 
-[丹](https://hvdic.thivien.net/whv/%E4%B8%B9)[丘](https://hvdic.thivien.net/whv/%E4%B8%98)[生](https://hvdic.thivien.net/whv/%E7%94%9F)，  
+[丹][丘][生]，  
 Đan Khâu sinh.  
 *Này ông bạn Đan Khâu*
 
 
-[將](https://hvdic.thivien.net/whv/%E5%B0%87)[進](https://hvdic.thivien.net/whv/%E9%80%B2)[酒](https://hvdic.thivien.net/whv/%E9%85%92)，  
+[將][進][酒]，  
 Thương tiến tửu,  
 *Xin mời uống rượu*
 
 
-[杯](https://hvdic.thivien.net/whv/%E6%9D%AF)[莫](https://hvdic.thivien.net/whv/%E8%8E%AB)[停](https://hvdic.thivien.net/whv/%E5%81%9C)。  
+[杯][莫][停]。  
 Bôi mạc đình!  
 *Chớ có ngừng chén*
 
 
-[與](https://hvdic.thivien.net/whv/%E8%88%87)[君](https://hvdic.thivien.net/whv/%E5%90%9B)[歌](https://hvdic.thivien.net/whv/%E6%AD%8C)[一](https://hvdic.thivien.net/whv/%E4%B8%80)[曲](https://hvdic.thivien.net/whv/%E6%9B%B2)，  
+[與]([君][歌][一][曲]，  
 Dữ quân ca nhất khúc,  
 *Tôi xin ca một khúc cho các anh*
 
 
-[請](https://hvdic.thivien.net/whv/%E8%AB%8B)[君](https://hvdic.thivien.net/whv/%E5%90%9B)[為](https://hvdic.thivien.net/whv/%E7%82%BA)[我](https://hvdic.thivien.net/whv/%E6%88%91)[傾](https://hvdic.thivien.net/whv/%E5%82%BE)[耳](https://hvdic.thivien.net/whv/%E8%80%B3)[聽](https://hvdic.thivien.net/whv/%E8%81%BD)。  
+[請][君][為][我][傾][耳][聽]。  
 Thỉnh quân vị ngã khuynh nhĩ thính:  
 *Xin các anh vì tôi lắng tai nghe*
 
 
-[鐘](https://hvdic.thivien.net/whv/%E9%90%98)[鼓](https://hvdic.thivien.net/whv/%E9%BC%93)[饌](https://hvdic.thivien.net/whv/%E9%A5%8C)[玉](https://hvdic.thivien.net/whv/%E7%8E%89)[何](https://hvdic.thivien.net/whv/%E4%BD%95)[足](https://hvdic.thivien.net/whv/%E8%B6%B3)[貴](https://hvdic.thivien.net/whv/%E8%B2%B4)，  
+[鐘][鼓][饌]([玉][何][足][貴]，  
 “Chung cổ soạn ngọc bất túc quý,  
 *Chuông trống cỗ bàn không đáng quý trọng*
 
 
-[但](https://hvdic.thivien.net/whv/%E4%BD%86)[願](https://hvdic.thivien.net/whv/%E9%A1%98)[長](https://hvdic.thivien.net/whv/%E9%95%B7)[醉](https://hvdic.thivien.net/whv/%E9%86%89)[不](https://hvdic.thivien.net/whv/%E4%B8%8D)[願](https://hvdic.thivien.net/whv/%E9%A1%98)[醒](https://hvdic.thivien.net/whv/%E9%86%92)。  
+[但][願][長][醉][不][願][醒]。  
 Đãn nguyện trường tuý bất nguyện tỉnh!  
 *Chỉ xin được say hoài không muốn tỉnh*
 
 
-[古](https://hvdic.thivien.net/whv/%E5%8F%A4)[來](https://hvdic.thivien.net/whv/%E4%BE%86)[聖](https://hvdic.thivien.net/whv/%E8%81%96)[賢](https://hvdic.thivien.net/whv/%E8%B3%A2)[皆](https://hvdic.thivien.net/whv/%E7%9A%86)[寂](https://hvdic.thivien.net/whv/%E5%AF%82)[寞](https://hvdic.thivien.net/whv/%E5%AF%9E)，  
+[古][來][聖][賢][皆][寂][寞]，  
 Cổ lai thánh hiền giai tịch mịch,  
 *Xưa nay các bậc thánh hiền đều không còn tiếng tăm*
 
 
-[唯](https://hvdic.thivien.net/whv/%E5%94%AF)[有](https://hvdic.thivien.net/whv/%E6%9C%89)[飲](https://hvdic.thivien.net/whv/%E9%A3%B2)[者](https://hvdic.thivien.net/whv/%E8%80%85)[留](https://hvdic.thivien.net/whv/%E7%95%99)[其](https://hvdic.thivien.net/whv/%E5%85%B6)[名](https://hvdic.thivien.net/whv/%E5%90%8D)。  
+[唯][有][飲][者][留][其][名]。  
 Duy hữu ẩm giả lưu kỳ danh.  
 *Chỉ có kẻ uống rượu mới để lại tên tuổi*
 
 
-[陳](https://hvdic.thivien.net/whv/%E9%99%B3)[王](https://hvdic.thivien.net/whv/%E7%8E%8B)[昔](https://hvdic.thivien.net/whv/%E6%98%94)[時](https://hvdic.thivien.net/whv/%E6%99%82)[宴](https://hvdic.thivien.net/whv/%E5%AE%B4)[平](https://hvdic.thivien.net/whv/%E5%B9%B3)[樂](https://hvdic.thivien.net/whv/%E6%A8%82)，  
+[陳][王][昔][時][宴][平][樂]，  
 Trần vương&nbsp;tích thời yến Bình Lạc,  
 *Trần vương hồi xưa mở yến hội ở Bình Lạc*
 
 
-[斗](https://hvdic.thivien.net/whv/%E6%96%97)[酒](https://hvdic.thivien.net/whv/%E9%85%92)[十](https://hvdic.thivien.net/whv/%E5%8D%81)[千](https://hvdic.thivien.net/whv/%E5%8D%83)[恣](https://hvdic.thivien.net/whv/%E6%81%A3)[歡](https://hvdic.thivien.net/whv/%E6%AD%A1)[謔](https://hvdic.thivien.net/whv/%E8%AC%94)。  
+[斗][酒][十][千][恣][歡][謔]。  
 Đẩu tửu thập thiên tứ hoan hước”.  
 *Mười ngàn đấu rượu tha hồ mà hoan lạc vui cười*
 
 
-[主](https://hvdic.thivien.net/whv/%E4%B8%BB)[人](https://hvdic.thivien.net/whv/%E4%BA%BA)[為](https://hvdic.thivien.net/whv/%E7%82%BA)[何](https://hvdic.thivien.net/whv/%E4%BD%95)[言](https://hvdic.thivien.net/whv/%E8%A8%80)[少](https://hvdic.thivien.net/whv/%E5%B0%91)[錢](https://hvdic.thivien.net/whv/%E9%8C%A2)，  
+[主][人][為][何][言][少][錢]，  
 Chủ nhân hà vi ngôn thiểu tiền,  
 *Tại sao chủ nhân lại nói ít tiền*
 
 
-[逕](https://hvdic.thivien.net/whv/%E9%80%95)[須](https://hvdic.thivien.net/whv/%E9%A0%88)[沽](https://hvdic.thivien.net/whv/%E6%B2%BD)[取](https://hvdic.thivien.net/whv/%E5%8F%96)[對](https://hvdic.thivien.net/whv/%E5%B0%8D)[君](https://hvdic.thivien.net/whv/%E5%90%9B)[酌](https://hvdic.thivien.net/whv/%E9%85%8C)。  
+[逕][須][沽][取][對][君][酌]。  
 Kính tu cô thủ đối quân chước.  
 *Hãy mau mau mua rượu mời các anh uống*
 
 
-[五](https://hvdic.thivien.net/whv/%E4%BA%94)[花](https://hvdic.thivien.net/whv/%E8%8A%B1)[馬](https://hvdic.thivien.net/whv/%E9%A6%AC)，  
+[五][花][馬](，  
 Ngũ hoa mã,  
 *Này ngựa hoa năm sắc*
 
 
-[千](https://hvdic.thivien.net/whv/%E5%8D%83)[金](https://hvdic.thivien.net/whv/%E9%87%91)[裘](https://hvdic.thivien.net/whv/%E8%A3%98)，  
+[千][金][裘]，  
 Thiên kim cừu,  
 *Này áo cừu giá ngàn vàng*
 
