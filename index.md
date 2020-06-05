@@ -4,7 +4,7 @@
 
 layout: default
 ---
-###### ( site.url: {{site.url}} ) / ( site.baseurl: {{site.baseurl}} ) ######
+<a href="{{ site.url }}/about/">Mở đầu</a>
 <div>
 {% for post in site.posts  %}
     <a href="{{ post.url }}"> <h2> {{post.title}}  </h2> </a>
@@ -15,3 +15,4 @@ layout: default
 {% endfor %}
 </div>
 ##### ( limit_posts: {{site.limit_posts}} ) #####
+<a href="{{ site.url }}">Trở lại trang chủ</a>
