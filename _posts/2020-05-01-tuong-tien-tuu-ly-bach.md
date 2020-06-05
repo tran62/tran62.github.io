@@ -166,8 +166,7 @@ Biệt hữu thiên địa, phi nhân gian.
   Khi ngồi vào tiệc rượu thì hưởng tận cái vui để tan cái *vạn cổ sầu*, một lần uống trăm chén, nếu hết rượu thì áo cừu, ngựa quý cũng đem đổi lấy rượu:   
 
  **Nguyễn Hiến Lê**   *Đại Cương Văn Học Sử Trung Quốc*  
- ______________________________________________________
- ______________________________________________________
+ _______________________________________________________
 
  
 **將 進 酒**  
@@ -306,7 +305,7 @@ Kính tu cô thủ đối quân chước.
 *Hãy mau mau mua rượu mời các anh uống*
 
 
-   五      花      馬   (，  
+   五      花      馬   ，  
 Ngũ hoa mã,  
 *Này ngựa hoa năm sắc*
 
