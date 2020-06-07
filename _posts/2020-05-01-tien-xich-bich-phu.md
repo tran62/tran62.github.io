@@ -22,11 +22,7 @@ meta:
   _wp_old_date: '2020-05-07'
   _thumbnail_id: '1087'
 author:
-  login: qatran75
-  email: qa_tran75@yahoo.fr
-  display_name: qatran75
-  first_name: Quốc-Anh
-  last_name: Trần
+  
 permalink: "/2020/05/01/tien-xich-bich-phu/"
 ---
  

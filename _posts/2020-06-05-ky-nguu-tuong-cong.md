@@ -17,15 +17,11 @@ meta:
   _wp_old_date: '2020-05-05'
   _edit_last: '10899574'
 author:
-  login: qatran75
-  email: qa_tran75@yahoo.fr
-  display_name: qatran75
-  first_name: Quốc-Anh
-  last_name: Trần
+  
 permalink: "/2020/06/05/ky-nguu-tuong-cong/"
 ---
-<figure class="wp-block-image size-large">
-<img src="{{ site.baseurl }}/assets/images/2020/06/DoMuc_KyNguuTuongCongthao.png?w=600" 
+<figure class="img-fluid">
+<img src="{{ site.baseurl }}/assets/images/2020/06/DoMuc_KyNguuTuongCongthao.png" 
      alt="DoMuc thao"  /><br />
 <figcaption>Bài thơ Đỗ Mục do thày Thích Phước Thành viết thảo, treo tại nhà TQA</figcaption> 
 </figure>
@@ -41,8 +37,8 @@ permalink: "/2020/06/05/ky-nguu-tuong-cong/"
 六 年 仁 政 謳 歌 去, 
 
 柳 繞 春 堤 處 處 聞
-<figure class="wp-block-image size-medium">
-<img src="{{ site.baseurl }}/assets/images/2020/06/DoMuc_KyNguuTuongCong.png?w=320" 
+<figure class="img-fluid">
+<img src="{{ site.baseurl }}/assets/images/2020/06/DoMuc_KyNguuTuongCong.png" 
      alt="DoMuc chânphuong"  /><br />
 <figcaption>hình trên do Thày Hằng Trường viết lại.</figcaption> 
 </figure>

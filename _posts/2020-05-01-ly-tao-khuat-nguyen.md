@@ -18,11 +18,7 @@ meta:
   timeline_notification: '1588853842'
   _wp_old_date: '2020-05-07'
 author:
-  login: qatran75
-  email: qa_tran75@yahoo.fr
-  display_name: qatran75
-  first_name: Quốc-Anh
-  last_name: Trần
+  
 permalink: "/2020/05/01/ly-tao-khuat-nguyen/"
 ---
 
