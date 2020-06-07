@@ -4,5 +4,4 @@ _site
 .jekyll-metadata
 vendor
 import
-_config.yml
 node_modules
