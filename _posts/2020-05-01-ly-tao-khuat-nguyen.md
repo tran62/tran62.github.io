@@ -21,7 +21,7 @@ author:
   
 permalink: "/2020/05/01/ly-tao-khuat-nguyen/"
 ---
-
+<img src="{{ site.baseurl }}/assets/images/2020/05/khuatnguyen.jpg" alt="2020-05-01 khuat nguyen ..." />
 
 *Ly-Tao* 
 Sở Khuất Nguyên trung mà bị đuổi, đành trọn đời đeo sầu chứ không thay đỏi lòng theo tục, thế là thanh cao: nhưng gái lầu xanh thân là thân phong gấm rủ là, phút chốc lạc đàn mang lấy nợ yến anh, cảnh ngộ xót xa biết mấy !  

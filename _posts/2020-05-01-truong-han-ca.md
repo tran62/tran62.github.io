@@ -29,7 +29,7 @@ Như Bạch Lạc Thiên ca ngợi sắc đẹp của Dương-Phi, tình yêu c�
 
 
 **Bằng Vân**&nbsp;–&nbsp;*Khúc Đoạn-Trường Lời bình luận toàn khúc*
-
+<img src="{{ site.baseurl }}/assets/images/2020/05/truong-han-ca.jpg" alt="2020-05-01 truong han ca" />
 
 #### **[長](https://hvdic.thivien.net/whv/%E9%95%B7)[恨](https://hvdic.thivien.net/whv/%E6%81%A8)[歌](https://hvdic.thivien.net/whv/%E6%AD%8C)&nbsp;&nbsp;(Cheng hen ge - Bai Juyi)  &#13;&#10;Trường hận ca**
 

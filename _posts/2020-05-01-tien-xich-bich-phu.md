@@ -25,6 +25,7 @@ author:
   
 permalink: "/2020/05/01/tien-xich-bich-phu/"
 ---
+<img src="{{ site.baseurl }}/assets/images/2020/05/xichbichphu.jpg" alt="2020-05 Xich Bich Phu" />
  
 Như Tô-Đông-Pha sao lãng lợi danh mà chơi gió chơi giăng, sảng khoái hơn người, nhưng gái lầu xanh buồn trong gió trăng hoa tuyết, gượng lúc thơ hoạ cầm cờ, lòng trong trắng thương thân dày dạn, dạ ngẩn ngơ bên hiếu bên tình, tâm hồn cao quý như vậy lại không hơn cái sảng khoái dễ dàng kia sao ?  
 **Bằng Vân** *Khúc Đoạn-Trường Lời bình luận toàn khúc*

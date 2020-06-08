@@ -32,7 +32,7 @@ repository: "/Users/qat/Documents/jekyll/tranax.github.io"
 # Build settings
 theme: minima
 limit_posts: 0
-keep_files: ["assets/", "assets/css/site.css", "assets/images/"]
+#keep_files: ["assets/", "assets/css/site.css", "assets/images/"]
 plugins:
   - jekyll-feed
   - jekyll-admin

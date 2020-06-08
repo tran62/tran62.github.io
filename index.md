@@ -15,4 +15,3 @@ layout: default
 {% endfor %}
 </div>
 ##### ( limit_posts: {{site.limit_posts}} ) #####
-<a href="{{ site.url }}">Trở lại trang chủ (home page)</a>

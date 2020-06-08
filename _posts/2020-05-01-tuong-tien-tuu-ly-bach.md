@@ -163,6 +163,7 @@ Biệt hữu thiên địa, phi nhân gian.
 
  **Nguyễn Hiến Lê**   *Đại Cương Văn Học Sử Trung Quốc*  
  _______________________________________________________
+ <img src="{{ site.baseurl }}/assets/images/2020/04/tuongtientuu.jpg" alt=" Tuong tien tuu" />
 
  
 **將 進 酒**  

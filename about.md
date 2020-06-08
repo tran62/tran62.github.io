@@ -32,4 +32,3 @@ Vietnam has Khuc Doan Truong (Song of Deep “Cut-Entrails” Sufferings)]
 
 This site is dedicated to the members of my family and their friends, spread all over the world, to discover this astounding writing of our uncle Bằng Vân – Nguyễn Đình Thản, the book named : Khúc Đoạn Trường recently found in the Bibliotheque Nationale de France in Paris.
 
-<a href="{{ site.url }}">Trở lại trang chủ (home page)</a>
