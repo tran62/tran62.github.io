@@ -31,7 +31,7 @@ github_username:  axtran
 #repository: "/Users/qat/Documents/jekyll/tranax.github.io"
 # Build settings
 theme: minima
-limit_posts: 10
+limit_posts: 12
 #keep_files: ["assets/", "assets/css/site.css", "assets/images/"]
 plugins:
   - jekyll-feed
