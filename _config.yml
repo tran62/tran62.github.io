@@ -22,7 +22,7 @@ title: Khúc Đoạn Trường
 author: Tran
 email: qat@melix.net
 description: >- # this means to ignore newlines until "baseurl:"
-  Ngoài mây thấy vũ trụ văn chương 
+  Ngoài mây thấy vũ trụ văn chương - Bằng Vân, Khúc Đoan Trường
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://tranax.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #url: "/Users/qat/Documents/jekyll/tranax.github.io"    # or "http://localhost:4000"
@@ -31,7 +31,7 @@ github_username:  axtran
 #repository: "/Users/qat/Documents/jekyll/tranax.github.io"
 # Build settings
 theme: minima
-limit_posts: 0
+limit_posts: 10
 #keep_files: ["assets/", "assets/css/site.css", "assets/images/"]
 plugins:
   - jekyll-feed
@@ -47,7 +47,7 @@ plugins:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-exclude:
+# exclude:
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
@@ -58,4 +58,4 @@ exclude:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-    - update_boostrap.sh
+#   - update_boostrap.sh
