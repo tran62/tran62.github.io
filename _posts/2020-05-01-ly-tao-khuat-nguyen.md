@@ -31,7 +31,7 @@ Sở Khuất Nguyên trung mà bị đuổi, đành trọn đời đeo sầu ch�
   
 
 
-*Ly tao*&nbsp;là tác phẩm tiêu biểu của Khuất Nguyên, là bài thơ lãng mạn-trữ tình-tự thuật đầu tiên và lớn nhất trong lịch sử văn học Trung Quốc.&nbsp;*Ly tao*&nbsp;nổi tiếng đến mức người Trung Quốc về sau coi đó là đại biểu của thơ ca. Họ gọi nhà thơ, nhà văn là “*tao nhân*, mạc khách” (ở Việt Nam ta trước đây cũng quan niệm như vậy, nên Lê Thánh Tông gọi thi đàn do mình sáng lập là “Tao đàn”, và Thế Lữ trong bài&nbsp;*Cây đàn muôn điệu*&nbsp;đã viết&nbsp;*“Mượn cây bút nàng&nbsp;Ly tao&nbsp;tôi vẽ...”*). Về chữ&nbsp;*Ly tao*&nbsp;có nhiều cách giải thích. Chu Bích Liên, trong sách&nbsp;*Cổ thi hải*, kết hợp ý kiến của nhiều nhà nghiên cứu, lý giải rằng:&nbsp;*Ly tao*&nbsp;nguyên là một điệu dân ca nước Sở, thích hợp với việc thể hiện những nỗi uất ức, bất bình; vì thế nhà thơ Khuất Nguyên khi bị vua Sở đầy ải đã dùng&nbsp;*Ly tao*&nbsp;làm đề để trữ phát những nỗi đau buồn day dứt uất kết trong lòng, đồng thời nói lên lý tưởng mà mình hoài bão. Ở ta, thông thường vẫn hiểu chữ “ly tao” theo cách chú giải của Vương Dật (người cuối đời Ðông Hán):&nbsp;*“Ly tao - nỗi sầu ly biệt”*. Chú như vậy cũng thông (có thể đây là nguyên nghĩa của&nbsp;*Ly tao*&nbsp;trong&nbsp;*Sở điệu*).
+*Ly tao* là tác phẩm tiêu biểu của Khuất Nguyên, là bài thơ lãng mạn-trữ tình-tự thuật đầu tiên và lớn nhất trong lịch sử văn học Trung Quốc. *Ly tao* nổi tiếng đến mức người Trung Quốc về sau coi đó là đại biểu của thơ ca. Họ gọi nhà thơ, nhà văn là “*tao nhân*, mạc khách” (ở Việt Nam ta trước đây cũng quan niệm như vậy, nên Lê Thánh Tông gọi thi đàn do mình sáng lập là “Tao đàn”, và Thế Lữ trong bài *Cây đàn muôn điệu* đã viết *“Mượn cây bút nàng Ly tao tôi vẽ...”*). Về chữ *Ly tao* có nhiều cách giải thích. Chu Bích Liên, trong sách *Cổ thi hải*, kết hợp ý kiến của nhiều nhà nghiên cứu, lý giải rằng: *Ly tao* nguyên là một điệu dân ca nước Sở, thích hợp với việc thể hiện những nỗi uất ức, bất bình; vì thế nhà thơ Khuất Nguyên khi bị vua Sở đầy ải đã dùng *Ly tao* làm đề để trữ phát những nỗi đau buồn day dứt uất kết trong lòng, đồng thời nói lên lý tưởng mà mình hoài bão. Ở ta, thông thường vẫn hiểu chữ “ly tao” theo cách chú giải của Vương Dật (người cuối đời Ðông Hán): *“Ly tao - nỗi sầu ly biệt”*. Chú như vậy cũng thông (có thể đây là nguyên nghĩa của *Ly tao* trong *Sở điệu*).
 
 
 
@@ -60,7 +60,7 @@ Giọng thê thảm, nhưng ông vẫn tự cao:
 
 高余冠之岌岌兮， 長余佩之陸離;  
 *Cao dư quan chi ngập ngập hề, Trường dư bội chi lục ly.*  
-Mũ ta cao mà ngất ngưỡng hề, Bội[88] ta dài và sặc sỡ.
+Mũ ta cao mà ngất ngưỡng hề, Bội ta dài và sặc sỡ.
 
 
 vẫn sửa mình, giữ đạo cho tới chết mới thôi:
@@ -92,8 +92,8 @@ Ngô tương tòng Bành, Hàm chi sở cư.*
 
 Nước không người, chẳng ai biết ta hề,   
 Thì còn nhớ tiếc gì cố đô?  
-Đã chẳng được cùng sửa mỹ chính[89] hề,   
-Ta theo Bành, Hàm[90] mà ẩn cư.
+Đã chẳng được cùng sửa mỹ chính hề,   
+Ta theo Bành, Hàm mà ẩn cư.
 
 
 Nhưng lòng ái quốc của ông nồng nàn quá, tuy oán hờn nhà vua mà vẫn còn luyến tiếc, đã nhất định bỏ đi rồi mà khi quay lại nhìn cố hương thì lại ngậm ngùi; đến con ngựa của ông, như cùng một tâm sự với ông, cũng dùng dằng, không muốn bước tới:
@@ -117,7 +117,7 @@ Một lòng trung trinh, muốn giúp nước mà không được, thân trong s
 
 
 赴湘流，葬於江魚之腹中  
-(*Phó Tương lưu, tàng ư giang ngư chi phúc trung)*.
+*(Phó Tương lưu, tàng ư giang ngư chi phúc trung)*.
 
 
 #### Văn của Khuất Nguyên 
@@ -142,6 +142,8 @@ Bá Dung nhớ cha ta thuở nọ,
 Vốn dòng vua về họ Cao Dương.  
 Tháng giêng đầu tiết xuân sang,  
 Cõi đời ta xuống, giữa đương ngày Dần.  
+...   
+
 Cất mình khoảng trời mây rộng rãi,  
 Chợt ngoảnh đầu trông lại quê hương.  
 Ngựa buồn, đầy tớ thảm thương,  
@@ -192,6 +194,5 @@ Dưới đây chúng tôi xin chép thiên Thiệp giang 涉江 mà Phan Kế B�
 
 
 Nguồn:  
-1. Phan Kế Bính,&nbsp;*Việt Hán văn khảo*, Nam Ký xuất bản, 1938  
-2. Dương Quảng Hàm,&nbsp;*Việt Nam văn học sử yếu*, Trung tâm học liệu xuất bản, 1968
-
+1. Phan Kế Bính, *Việt Hán văn khảo*, Nam Ký xuất bản, 1938  
+2. Dương Quảng Hàm, *Việt Nam văn học sử yếu*, Trung tâm học liệu xuất bản, 1968
