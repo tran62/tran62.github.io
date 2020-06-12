@@ -328,3 +328,4 @@ Bài này được sáng tác khoảng năm Thiên Bảo thứ 11. Đề mục *
 
 Chữ 將 trong tên bài ở đây đọc âm *thương* (tương ứng âm “qiāng” trong tiếng Trung hiện đại) với nghĩa xin mời, hãy.
 
+[link ~> Trang thơ Lý Bạch - Thương tiến tửu trên Thi viện](https://www.thivien.net/L%C3%BD-B%E1%BA%A1ch/Th%C6%B0%C6%A1ng-ti%E1%BA%BFn-t%E1%BB%ADu/poem-2SOZi2_E9ZMjy3mQn1w89A){:target="_blank"}
