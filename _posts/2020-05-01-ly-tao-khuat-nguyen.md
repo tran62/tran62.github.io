@@ -27,6 +27,9 @@ permalink: "/2020/05/01/ly-tao-khuat-nguyen/"
 Sở Khuất Nguyên trung mà bị đuổi, đành trọn đời đeo sầu chứ không thay đỏi lòng theo tục, thế là thanh cao: nhưng gái lầu xanh thân là thân phong gấm rủ là, phút chốc lạc đàn mang lấy nợ yến anh, cảnh ngộ xót xa biết mấy !  
 **Bằng Vân** - *Khúc Đoạn-Trường Lời bình luận toàn khúc*
 
+***
+  
+
 
 *Ly tao*&nbsp;là tác phẩm tiêu biểu của Khuất Nguyên, là bài thơ lãng mạn-trữ tình-tự thuật đầu tiên và lớn nhất trong lịch sử văn học Trung Quốc.&nbsp;*Ly tao*&nbsp;nổi tiếng đến mức người Trung Quốc về sau coi đó là đại biểu của thơ ca. Họ gọi nhà thơ, nhà văn là “*tao nhân*, mạc khách” (ở Việt Nam ta trước đây cũng quan niệm như vậy, nên Lê Thánh Tông gọi thi đàn do mình sáng lập là “Tao đàn”, và Thế Lữ trong bài&nbsp;*Cây đàn muôn điệu*&nbsp;đã viết&nbsp;*“Mượn cây bút nàng&nbsp;Ly tao&nbsp;tôi vẽ...”*). Về chữ&nbsp;*Ly tao*&nbsp;có nhiều cách giải thích. Chu Bích Liên, trong sách&nbsp;*Cổ thi hải*, kết hợp ý kiến của nhiều nhà nghiên cứu, lý giải rằng:&nbsp;*Ly tao*&nbsp;nguyên là một điệu dân ca nước Sở, thích hợp với việc thể hiện những nỗi uất ức, bất bình; vì thế nhà thơ Khuất Nguyên khi bị vua Sở đầy ải đã dùng&nbsp;*Ly tao*&nbsp;làm đề để trữ phát những nỗi đau buồn day dứt uất kết trong lòng, đồng thời nói lên lý tưởng mà mình hoài bão. Ở ta, thông thường vẫn hiểu chữ “ly tao” theo cách chú giải của Vương Dật (người cuối đời Ðông Hán):&nbsp;*“Ly tao - nỗi sầu ly biệt”*. Chú như vậy cũng thông (có thể đây là nguyên nghĩa của&nbsp;*Ly tao*&nbsp;trong&nbsp;*Sở điệu*).
 
@@ -126,15 +129,11 @@ Tác phẩm bất hủ của ông là thiên Ly tao (nghĩa là xa vua mà buồ
 Tình cảm ông thay đổi kỳ dị: mới vui đó đã buồn, mới cười đó đã khóc; mới muốn đi xa lại đổi ý, đòi lên chầu Thượng Đế, rồi lại muốn bói, muốn trở về cố hương; muốn tự tử. Thật là chân tình, mỗi chữ là một tiếng thở dài, một giọt nước mắt; ít thấy văn nhân nào đau khổ, thác loạn đến mức vậy.  
 **Nguyễn Hiến Lê** - *Đai cương văn học sử Trung quốc*   
 
-___
+***
 
 
-[Link~> Trang thơ Khuất-Nguyên **Ly Tao** trên Thi Viện](https://www.thivien.net/Khu%E1%BA%A5t-Nguy%C3%AAn/Ly-tao/poem-lRoe60dlSbBq5oc1ZRJWhQ)      
+[Link~> Trang thơ Khuất-Nguyên **Ly Tao** trên Thi Viện](https://www.thivien.net/Khu%E1%BA%A5t-Nguy%C3%AAn/Ly-tao/poem-lRoe60dlSbBq5oc1ZRJWhQ){:target="_blank"}      
 
-
-
-
-   
    
 ### Nỗi sầu ly biệt      
    
@@ -164,7 +163,7 @@ Bài Thiên vấn (hỏi trời) cũng là một kỳ văn, kém Ly tao về ph�
 Dưới đây chúng tôi xin chép thiên Thiệp giang 涉江 mà Phan Kế Bính đã dịch trong Việt Hán văn khảo.       
    
    
-[Link ~> Trang thơ Khuất-Nguyên **Thiệp-Giang** trên Thi Viên](https://www.thivien.net/Khu%E1%BA%A5t-Nguy%C3%AAn/Ly-tao/poem-lRoe60dlSbBq5oc1ZRJWhQ)      
+[Link ~> Trang thơ Khuất-Nguyên **Thiệp-Giang** trên Thi Viên](https://www.thivien.net/Khu%E1%BA%A5t-Nguy%C3%AAn/Thi%E1%BB%87p-giang/poem-csh8ujkV1cSEGuoKbE1Ufg){:target="_blank"}        
    
 
 <div class="wp-block-column"><p></p>
@@ -188,6 +187,8 @@ Dưới đây chúng tôi xin chép thiên Thiệp giang 涉江 mà Phan Kế B�
    ...   
   Đời đục vẩn mà không ai biết ta hề,  
   Ta cứ ruổi mau mà chẳng ngó.  
+
+***
 
 
 Nguồn:  
