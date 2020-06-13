@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ký Ngưu tướng công (Đỗ Mục)
-date: 2020-04-05 19:30:00.000000000 +02:00
+date: 2020-06-05 19:30:00.000000000 +02:00
 type: post
 parent_id: '0'
 published: true
@@ -20,11 +20,10 @@ author:
   
 permalink: "/2020/06/05/ky-nguu-tuong-cong/"
 ---
-<figure class="img-fluid">
-<img src="{{ site.baseurl }}/assets/images/2020/06/DoMuc_KyNguuTuongCongthao.png" 
-     alt="DoMuc thao"  /><br />
-<figcaption>Bài thơ Đỗ Mục do thày Thích Phước Thành viết thảo, treo tại nhà TQA</figcaption> 
-</figure>
+
+{% include image.html url="/assets/images/2020/06/DoMuc_KyNguuTuongCongthao.png"
+     description="Bài thơ Đỗ Mục do thày Thích Phước Thành viết thảo, treo tại nhà TQA" 
+     %}
 
 ### ***Lời giải của ông Trần văn Chánh***
 
@@ -78,9 +77,8 @@ có dạng viết khác là 遶.
 
 
   
-### ***Bản của thày Hằng Trường :***   
-<figure class="img-fluid">
-<img src="{{ site.baseurl }}/assets/images/2020/06/DoMuc_KyNguuTuongCong.png" 
-     alt="DoMuc Ky Nguu-tuong-công"  />
-<figcaption>Hán thuỷ hoành xung Thục lãng hề...</figcaption> 
-</figure>
+### ***Bản của thày Hằng Trường :*** 
+{% include image.html url="/assets/images/2020/06/DoMuc_KyNguuTuongCong.png"
+     description="Hán thuỷ hoành xung Thục lãng hề..." 
+     %}  
+
