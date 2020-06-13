@@ -1,0 +1,5 @@
+Authname "Page admin mdp"
+AuthType Basic
+AuthUserFile ".passwd-file"
+Require valid-user
+
