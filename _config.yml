@@ -32,7 +32,7 @@ github_username:  axtran
 # Build settings
 theme: minima
 limit_posts: 12
-#keep_files: ["assets/", "assets/css/site.css", "assets/images/"]
+keep_files: [".htaccess", ".passwd-file"]
 plugins:
   - jekyll-feed
   - jekyll-admin
