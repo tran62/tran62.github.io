@@ -17,7 +17,9 @@ permalink: "/2020/06/13/ma-ha-bat-nha/"
 
 {% 
    include image.html url="/assets/images/MahaBatnhaNguyet.jpg"
-                      description="Maha bát nhã nguyệt, treo tại Providence" 
+                      description="Maha bát nhã nguyệt, treo tại Providence"
+                      width="50%"
+                      height="50%"
 %}
 
 ### ***Lời giải của ông Trần văn Chánh***
