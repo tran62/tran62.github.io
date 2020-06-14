@@ -45,15 +45,15 @@ CHÚ THÍCH:
 Trăng soi sáng, lời dậy toả ra muôn dặm như sóng biển.
 *Giáo hải vạn lý ba* làm Q-A nhớ đến bài thơ mà cố Sư bà Thích nữ Thể Quán, một vị có tiếng là hay chữ, trụ trì chùa *Hoàng Mai - Huế* có đố - ai là tác giả :
 
-*Ái hà thiên xích lãng*
-*Khổ hải vạn trùng ba*
-*Dục thoát luân hồi khổ*
+*Ái hà thiên xích lãng*   
+*Khổ hải vạn trùng ba*   
+*Dục thoát luân hồi khổ*   
 *Cấp cấp niệm Di-Đà.*
 
 Đến bây giờ vẫn chưa ai tìm được tác giả.
 Ai tìm được, Q-A xin tặng 50 €.
 
-Đạo Phật day cách thoát khổ, trong khi đại TC lại dục con chiên phải có tình yêu:
+Đạo Phật day cách thoát khổ, trong khi đạo Ky-Tô lại dục con chiên phải có tình yêu:
 
 >J’aurais beau parler toutes les langues des hommes et des anges,
 >si je n’ai pas la charité, s’il me manque l’amour, je ne suis
