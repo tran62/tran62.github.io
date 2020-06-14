@@ -21,14 +21,19 @@ author:
   
 permalink: "/2020/05/01/ly-tao-khuat-nguyen/"
 ---
-<img src="{{ site.baseurl }}/assets/images/2020/05/khuatnguyen.jpg" alt="2020-05-01 khuat nguyen ..." />
-
+   
 *Ly-Tao* 
 Sở Khuất Nguyên trung mà bị đuổi, đành trọn đời đeo sầu chứ không thay đỏi lòng theo tục, thế là thanh cao: nhưng gái lầu xanh thân là thân phong gấm rủ là, phút chốc lạc đàn mang lấy nợ yến anh, cảnh ngộ xót xa biết mấy !  
-**Bằng Vân** - *Khúc Đoạn-Trường Lời bình luận toàn khúc*
+**Bằng Vân** - *Khúc Đoạn-Trường Lời bình luận toàn khúc*   
 
 ***
   
+{% 
+   include image.html url="/assets/images/2020/05/khuatnguyen.jpg"
+                      description="Sở Khuất Nguyên - Ly Tao"
+                      width="50%"
+                      height=""
+%}
 
 
 *Ly tao* là tác phẩm tiêu biểu của Khuất Nguyên, là bài thơ lãng mạn-trữ tình-tự thuật đầu tiên và lớn nhất trong lịch sử văn học Trung Quốc. *Ly tao* nổi tiếng đến mức người Trung Quốc về sau coi đó là đại biểu của thơ ca. Họ gọi nhà thơ, nhà văn là “*tao nhân*, mạc khách” (ở Việt Nam ta trước đây cũng quan niệm như vậy, nên Lê Thánh Tông gọi thi đàn do mình sáng lập là “Tao đàn”, và Thế Lữ trong bài *Cây đàn muôn điệu* đã viết *“Mượn cây bút nàng Ly tao tôi vẽ...”*). Về chữ *Ly tao* có nhiều cách giải thích. Chu Bích Liên, trong sách *Cổ thi hải*, kết hợp ý kiến của nhiều nhà nghiên cứu, lý giải rằng: *Ly tao* nguyên là một điệu dân ca nước Sở, thích hợp với việc thể hiện những nỗi uất ức, bất bình; vì thế nhà thơ Khuất Nguyên khi bị vua Sở đầy ải đã dùng *Ly tao* làm đề để trữ phát những nỗi đau buồn day dứt uất kết trong lòng, đồng thời nói lên lý tưởng mà mình hoài bão. Ở ta, thông thường vẫn hiểu chữ “ly tao” theo cách chú giải của Vương Dật (người cuối đời Ðông Hán): *“Ly tao - nỗi sầu ly biệt”*. Chú như vậy cũng thông (có thể đây là nguyên nghĩa của *Ly tao* trong *Sở điệu*).

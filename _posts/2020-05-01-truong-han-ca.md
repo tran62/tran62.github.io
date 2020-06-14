@@ -29,8 +29,13 @@ Như Bạch Lạc Thiên ca ngợi sắc đẹp của Dương-Phi, tình yêu c�
 
 
 **Bằng Vân** *Khúc Đoạn-Trường Lời bình luận toàn khúc*
-<img src="{{ site.baseurl }}/assets/images/2020/05/TruongHanCa.jpg" alt="2020-05-01 truong han ca" />
 
+{% 
+   include image.html url="/assets/images/2020/05/TruongHanCa.jpg"
+                      description=" Trường Hận Ca "
+                      width="100%"
+                      height=""
+%}
 
 #### **[長](https://hvdic.thivien.net/whv/%E9%95%B7)[恨](https://hvdic.thivien.net/whv/%E6%81%A8)[歌](https://hvdic.thivien.net/whv/%E6%AD%8C)&nbsp;&nbsp;(Cheng hen ge - Bai Juyi)  &#13;&#10;Trường hận ca**
 
@@ -634,7 +639,12 @@ Thiên trường địa cửu hữu thì tận
 Thử hận miên miên vô tuyệt kỳ  
 *Hận này đằng dặc, không thủa nào cùng!*
 
-<img src="{{ site.baseurl }}/assets/images/2020/05/truong-han-ca.jpg" alt="2020-05-01 truong han ca" />
+{% 
+   include image.html url="/assets/images/2020/05/truong-han-ca.jpg"
+                      description=" Dương quý phi - Đường Minh Hoàng "
+                      width="75%"
+                      height=""
+%}
 
 #### Bản dịch của&nbsp;[Tản Đà](https://www.thivien.net/T%E1%BA%A3n-%C4%90%C3%A0/author-FOvItidPjMKModgAy49buw)
 
@@ -777,4 +787,11 @@ Giận này dặc dặc dễ hầu có nguôi...
 
 nguồn:&nbsp;*Tiểu thuyết thứ bảy*, số 31 (29-12-1934) và số 33 (12-1-1935)
 
-![Yang Guifei](https://fracademic.com/pictures/frwiki/72/Hua-Qing-Chi-Yang-Gui-Fei.jpg)
+{% 
+   include image.html url="https://fracademic.com/pictures/frwiki/72/Hua-Qing-Chi-Yang-Gui-Fei.jpg"
+                      description="CC BY-SA 3.0
+Hua-Qing-Chi-Yang-Gui-Fei 華清池楊貴妃入浴像
+Created: 19 October 2006 "
+                      width="66%"
+                      height="66%"
+%}

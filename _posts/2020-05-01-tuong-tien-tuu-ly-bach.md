@@ -25,9 +25,15 @@ permalink: "/2020/05/01/tuong-tien-tuu-ly-bach/"
  
 Lý Thái Bạch say dài chẳng tỉnh, chung cổ không mong, thánh hiền không vọng, thật đã ngang tàng, nhưng gái lầu xanh thân làm kẻ bán vui mà không biết đén cái xuân, cảnh đẹp chẳng màng, tri âm chẳng tưởng, lòng đau thấm thía bao nhiêu !  
 **Bằng Vân** *Khúc Đoạn Trường , Lời bình luận toàn khúc.*
-__________________________________________________________
- 
-__________________________________________________________ 
+
+***
+
+{% 
+   include image.html url="/assets/images/2020/04/ly-bach_xu-the-nhuoc-dai-mong.jpg"
+                      description=" Lý Bạch - Xử thế nhươc đại mộng "
+                      width="75%"
+                      height=""
+%}
  
 
   Tôi muốn được sinh ở thế kỷ thứ 8, không phải để coi viên dạ minh châu của Đường Minh Hoàng, cũng không phải để nghe khúc Nghê thường của Dương Quí Phi mà để biết dung nhan, cốt cách một người mà thi sĩ Hạ Tri Chương mới gặp đã tặng ngay cái hiệu “ông tiên bị đày xuống trần” (天 上 謫 仙 人 Thiên thượng trích tiên nhân), một người chỉ say sưa quanh năm, bạ đâu ngủ đấy, trong quán rượu ở chợ, dưới gốc cây trên núi, màđược vua phải nể, kẻ quyền thế là Cao lực sĩ phải sợ, một người không hề giúp ích gì cho đời, chỉ ngao du sơn thuỷ rồi ngâm nga ca vịnh màđược hậu thế đặt ngang hàng với các vị giáo chủ, phải, ngang với Thích Ca, Lão Tử, Giê Du, Khổng Tử vì, cũng như 4 vị Phật, Thánh kia, người ấy đã được thế nhân đặt ra những truyện hoang đường về lúc giáng phàm của mình. Người ấy là Lý Bạch.   
@@ -162,8 +168,16 @@ Biệt hữu thiên địa, phi nhân gian.
   Khi ngồi vào tiệc rượu thì hưởng tận cái vui để tan cái *vạn cổ sầu*, một lần uống trăm chén, nếu hết rượu thì áo cừu, ngựa quý cũng đem đổi lấy rượu:   
 
  **Nguyễn Hiến Lê**   *Đại Cương Văn Học Sử Trung Quốc*  
- _______________________________________________________
- <img src="{{ site.baseurl }}/assets/images/2020/04/tuongtientuu.jpg" alt=" Tuong tien tuu" />
+ 
+ ***
+ 
+
+ {% 
+   include image.html url="/assets/images/2020/04/tuongtientuu.jpg"
+                      description=" Tương Tiến Tửu "
+                      width="100%"
+                      height=""
+%}
 
  
 **將 進 酒**  

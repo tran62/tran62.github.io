@@ -30,6 +30,13 @@ Như Tô-Đông-Pha sao lãng lợi danh mà chơi gió chơi giăng, sảng kho
 ***
  
 
+{% 
+   include image.html url="/assets/images/2020/05/Hau-Xich-Bich.jpg"
+                      description="Hậu Xích-Bích phú"
+                      width="100%"
+                      height=""
+%}  
+
 Đến ngày 15 tháng mười năm ấy, Tô lại cùng Miên Trúc Đạo sĩ và Hoàng Lỗ Trực (2) đi chơi sông Xích Bích. Hồi này tiết trời đông ken, nước sông cạn xiết, bờ sông và sườn núi chìa ra, đường lối đã thay đổi, khác hẳn lần đi chơi trước. Khi về bỗng có con chim hạc lướt qua thuyền bay sang phía tây. Đêm khuya Tô chiêm bao thấy một Đạo sĩ đến nói truyện, tỉnh dậy mới biết chim hạc bay qua thuyền là tiên nhân, bèn làm ra bài phú Hậu Xích Bích.  
 Vua Triết Tông (1086-1099) xem hai bài phú, khen là kỳ tài, vời Tô về triều phong chức Hàn lâm học sĩ, rồi thăng lên Bộ binh Thượng thư.  
 

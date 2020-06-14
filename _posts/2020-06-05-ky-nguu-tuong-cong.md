@@ -4,7 +4,7 @@ title: Ký Ngưu tướng công (Đỗ Mục)
 date: 2020-06-05 19:30:00.000000000 +02:00
 type: post
 parent_id: '0'
-published: false
+published: true
 password: ''
 status: publish
 categories:

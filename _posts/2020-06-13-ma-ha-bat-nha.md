@@ -4,7 +4,7 @@ title: Ma Ha Bát Nhã nguyệt"
 date: 2020-06-13 16:00:00.000000000 +02:00
 type: post
 parent_id: '0'
-published: false
+published: true
 password: ''
 status: publish
 categories:
@@ -15,9 +15,10 @@ tags: []
 permalink: "/2020/06/13/ma-ha-bat-nha/"
 ---
 
-{% include image.html url="/assets/images/MahaBatnhaNguyet.jpg"
-     description="Maha bát nhã nguyệt, treo tại Providence" 
-     %}
+{% 
+   include image.html url="/assets/images/MahaBatnhaNguyet.jpg"
+                      description="Maha bát nhã nguyệt, treo tại Providence" 
+%}
 
 ### ***Lời giải của ông Trần văn Chánh***
 
