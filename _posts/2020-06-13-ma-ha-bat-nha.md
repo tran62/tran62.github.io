@@ -18,8 +18,8 @@ permalink: "/2020/06/13/ma-ha-bat-nha/"
 {% 
    include image.html url="/assets/images/MahaBatnhaNguyet.jpg"
                       description="Maha bát nhã nguyệt, treo tại Providence"
-                      width="50%"
-                      height="50%"
+                      width="90%"
+                      height="90%"
 %}
 
 ### ***Lời giải của ông Trần văn Chánh***
@@ -42,7 +42,7 @@ CHÚ THÍCH:
 
 BỔ SUNG LẠC KHOẢN:  
 *Tuế Giáp Ngọ, thủ xuân, sa môn NGUYÊN TIỀU thư.*  
-(Năm Giáp Ngọ, đầu xuân, sa môn Nguyên Tiều viết)
+(Năm Giáp Ngọ (2014), đầu xuân, sa môn Nguyên Tiều viết)
 
 ### ***Lời bàn của Q-A***
 
@@ -110,8 +110,8 @@ Ai tìm được, Q-A xin tặng 50 €.
 {% 
    include image.html url="/assets/images/Nguyen-Ung_baodung.jpg"
                       description="Bao Dung - Compassion all embracing"
-                      width="50%"
-                      height="50%"
+                      width="90%"
+                      height="90%"
 %}
 
 >The poem I hang at Providence, in mommy's room was given to
@@ -127,13 +127,13 @@ Ai tìm được, Q-A xin tặng 50 €.
 {% 
    include image.html url="/assets/images/Nguyen-Ung2.jpg"
                       description="Thập? Thiện Bi Ác - Host Good Pity Evil"
-                      width="50%"
-                      height="50%"
+                      width="90%"
+                      height="90%"
 %}
 {% 
    include image.html url="/assets/images/Nguyen-Ung1.jpg"
                       description="ngài Nguyên Ứng"
-                      width="50%"
-                      height="50%"
+                      width="90%"
+                      height="90%"
 %}
 
