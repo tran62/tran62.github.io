@@ -40,6 +40,10 @@ Biển giáo sóng muôn dặm.
 CHÚ THÍCH:   
 *Ma ha* gốc tiếng Sanskrit, có nghĩa là: đại, lớn... 
 
+BỔ SUNG LẠC KHOẢN:  
+*Tuế Giáp Ngọ, thủ xuân, sa môn NGUYÊN TIỀU thư.*  
+(Năm Giáp Ngọ, đầu xuân, sa môn Nguyên Tiều viết)
+
 ### ***Lời bàn của Q-A***
 
 Trăng soi sáng, lời dậy toả ra muôn dặm như sóng biển.
