@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 離騷 (Khuất Nguyên - 屈原)
+title: 離騷 (Ly Tao)
 date: 2020-05-01 18:50:13.000000000 +02:00
 type: post
 parent_id: '0'

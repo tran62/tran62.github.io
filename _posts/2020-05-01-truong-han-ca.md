@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 長恨歌(Bạch Cư Dị)
+title: 長恨歌(Trường Hận Ca)
 date: 2020-05-01 18:45:41.000000000 +02:00
 type: post
 parent_id: '0'

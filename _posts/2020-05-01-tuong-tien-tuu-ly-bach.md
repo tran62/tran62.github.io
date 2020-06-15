@@ -1,5 +1,5 @@
 ---
-title: 將進酒 (Lý Bạch)
+title: 將進酒 (Thương tiến tửu)
 layout: post
 date: '2020-05-01 18:30:36 +0200'
 type: post

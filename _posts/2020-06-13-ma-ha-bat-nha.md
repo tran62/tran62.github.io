@@ -110,17 +110,18 @@ Ai tìm được, Q-A xin tặng 50 €.
 {% 
    include image.html url="/assets/images/Nguyen-Ung_baodung.jpg"
                       description="Bao Dung - Compassion all embracing"
-                      width="90%"
-                      height="90%"
+                      width="75%"
+                      height="75%"
 %}
 
 >The poem I hang at Providence, in mommy's room was given to
->mommyfrom A famous Korean Buddhist monk ,name Nguyên Úng , who
->was 80 yrs old when he wrote that poem in Long Beach California
->during a Mandala prayer with 3000 people, and he gave but 20 of
->these poems free, and it was luck to get it for mommy.  
+>mommyfrom A famous Korean Buddhist monk, name Nguyên Ứng , who
+>was eighty years old when he wrote that poem in Long Beach
+>California during a Mandala prayer with three thousand people, and
+>he gave but twenty of these poems free, and it was luck to get it
+>for mommy.  
 >It is priceless.  
->Because Master Nguyên Ưng died 2 years later. All his work in the
+>Because Master Nguyên Ứng died two years later. All his work in the
 >Avatamsaka  sutra written with his blood and later on in gold are
 >Korean treasures, I got to see it once.
 >
@@ -133,7 +134,7 @@ Ai tìm được, Q-A xin tặng 50 €.
 {% 
    include image.html url="/assets/images/Nguyen-Ung1.jpg"
                       description="ngài Nguyên Ứng"
-                      width="90%"
-                      height="90%"
+                      width="75%"
+                      height="75%"
 %}
 

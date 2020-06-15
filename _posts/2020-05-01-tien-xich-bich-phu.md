@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 前赤壁賦 (Tô Đông Pha)
+title: 前赤壁賦 (Tiền Xích Bích phú)
 date: 2020-05-01 18:25:49.000000000 +02:00
 type: post
 parent_id: '0'
