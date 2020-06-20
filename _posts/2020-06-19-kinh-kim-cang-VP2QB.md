@@ -1,11 +1,16 @@
-*Bai trong Kinh Kim Cang cua Thay Van Phong tang anh Bao luc sap ra di June 19 2010*   
+*Bài trong Kinh Kim Cang của Thày Vân Phong tặng anh Bảo lúc sắp ra đi June 19 2010*   
 Kim Le	- 19 juin 2020 à 22:09   
 
 “Nhất thiết hữu vi pháp,  
 Như mộng, huyễn, bào, ảnh,  
 Như lộ diệc như điện,  
 Ưng tác như thị quán.”   
-
+{% 
+   include image.html url="/assets/images/KimCangThien.jpg"
+                      description=" Lời Phật day "
+                      width="100%"
+                      height=""
+%}
 *Dịch nghĩa:*  
 
 Tất cả pháp hữu vi,  
@@ -72,7 +77,12 @@ Hòa thượng Mật Thể dịch là:
 Cỏ xuân tươi tốt thu qua rụng rời  
 Sá chi suy thịnh việc đời  
 Thịnh suy như hạt sương rơi đầu cành.”  
-
+{% 
+   include image.html url="/assets/images/Hoa-Sen-Trang.jpg"
+                      description=" Hoa sen trắng "
+                      width="100%"
+                      height=""
+%}
 Nói chung, theo lời Phật dạy, các pháp hữu vi như sắc thân, thế giới, vọng tưởng chỉ là trò ảo mộng mà thôi, chúng ta phải quán sáu ví dụ đó để không bị chấp trước hay dính mắc vào một cái gì. Khi đó ta sẽ thấy được biển rộng trời cao, tâm lượng của ta biến thành rộng lớn, bao la như hư không, không bị vật gì ràng buộc, không gì làm trở ngại.  
 
 Tuy nhiên, chúng ta phải biết rằng việc quán chư pháp không tướng tức là quán các pháp như như, vì tánh tướng vốn không. Cho nên, quán duyên sanh liền có thể khế hợp vào như như bất động và vì vậy, vô vi pháp tánh từ quán hữu vi pháp tướng như mộng, như huyễn mà hiện khởi. Đó cũng chính là nghĩa của Trung đạo vậy.  
