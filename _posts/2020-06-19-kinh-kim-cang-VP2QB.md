@@ -92,7 +92,7 @@ Tóm lại, qua bốn câu kệ cuối bài kinh ta thấy đức Phật đã d�
 Với những hình ảnh mà đức Phật ví dụ trong bài kệ, không những có giá trị về mặt nội dung mà còn truyền tải nghệ thuật văn học trong Phật giáo. Khi hành giả đi sâu vào quán chiếu các pháp đều hư giả như sáu ví dụ trên thì hành giả không còn khởi vọng tâm chấp thủ ngã-pháp hay bốn tướng nữa. Và khi các vô minh vọng chấp không còn thì chơn tâm thanh tịnh hiện ra, hay nói cách khác là tánh Kim Cang Bát-nhã như như bất động hiện ra mà không cần phải rong ruổi tìm cầu nơi nào hết.  
 
 Tâm Chơn  
-(Trích: Bóng Trúc Bên Thềm của Tâm Chơn, Nhà xuất bản: Văn Hóa Thông Tin)  
+(Trích: [Bóng Trúc Bên Thềm của Tâm Chơn, Nhà xuất bản: Văn Hóa Thông Tin](https://quangduc.com/p5427a32758/bong-truc-ben-them){:target="_blank"})  
 --
 With Peace, Love and Light   
 Kimbang  
