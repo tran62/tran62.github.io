@@ -1,22 +1,23 @@
 *Bài trong Kinh Kim Cang của Thày Vân Phong tặng anh Bảo lúc sắp ra đi June 19 2010*   
 Kim Le	- 19 juin 2020 à 22:09   
 
-“Nhất thiết hữu vi pháp,  
-Như mộng, huyễn, bào, ảnh,  
-Như lộ diệc như điện,  
-Ưng tác như thị quán.”   
-{% 
-   include image.html url="/assets/images/KimCangThien.jpg"
-                      description=" Lời Phật day "
-                      width="100%"
-                      height=""
-%}
+一 切 有 爲 法 «Nhất thiết hữu vi pháp,  
+如 夢 幻 泡 影 Như mộng huyễn bào ảnh,  
+如 露 亦 如 電 Như lộ diệc như điện,  
+應 作 如 是 觀 Ưng tác như thị quán.»  
+  
 *Dịch nghĩa:*  
-
 Tất cả pháp hữu vi,  
 Như mộng, huyễn, bọt, bóng,  
 Như sương, như chớp loé,  
-Hãy quán chiếu như thế.   
+Hãy quán chiếu như thế.  
+{% 
+   include image.html url="/assets/images/KimCangThien.jpg"
+                      description=" Lời Phật day "
+                      width="96%"
+                      height=""
+%}
+
 
 Thật vậy, bài kệ không chỉ hay vì ý nghĩa diệu huyền mà còn nổi tiếng bởi văn từ tinh nhã. Thành ra, bên cạnh việc tìm hiểu nghĩa lý để ứng dụng hành trì, tôi mon men đảo một vòng ngang qua văn tự của bài kệ.  
 
@@ -66,12 +67,31 @@ Thí dụ bọt cũng vậy. Chúng ta đều biết bọt là do nước bị g
 
 Như sương, như chớp loé cũng thế. Buổi sáng sớm, chúng ta còn thấy vài hạt sương long lanh trên đầu lá cây ngọn cỏ. Nhưng khi mặt trời ló dạng, ánh nắng chiếu xuống thì sương tan không còn nữa. Điện chớp cũng chỉ là hiện tượng thoáng qua, vô thường như vậy. Về ý này, thiền sư Vạn Hạnh có bài kệ:   
 
-“Thân như điện ảnh hữu hoàn vô  
-Vạn mộc xuân vinh thu hựu khô  
-Nhậm vận thịnh suy vô bố úy  
-Thịnh suy như lộ thảo đầu phô.”  
+示 弟 子  
+Thị đệ tử  
+Dặn học trò  
+身 如 電 影 有 還 無， 
+Thân như điện ảnh hữu hoàn vô,  
+Người đời như bóng chớp, có rồi lại không,  
 
-Hòa thượng Mật Thể dịch là:  
+萬 木 春 榮 秋 又 枯。 
+Vạn mộc xuân vinh, thu hựu khô.  
+Như cây cối, mùa xuân tốt tươi, mùa thu khô héo.  
+
+任 運 盛 衰 無 怖 畏， 
+Nhậm vận thịnh suy vô bố uý,  
+Mặc cho vận đời dù thịnh hay suy, đừng sợ hãi,  
+
+盛 衰 如 露 草 頭 鋪。 
+Thịnh suy như lộ thảo đầu phô.  
+Vì sự thịnh suy như giọt sương đầu ngọn cỏ.  
+
+
+Bài kệ này thiền sư đọc cho đệ tử khi sắp mất.  
+
+Nguồn: Thơ văn Lý Trần (tập I), NXB Khoa học Xã hội, 1977   
+
+*Hòa thượng Mật Thể dịch là:*  
 
 “Thân như bóng chớp chiều tà  
 Cỏ xuân tươi tốt thu qua rụng rời  
@@ -80,7 +100,7 @@ Thịnh suy như hạt sương rơi đầu cành.”
 {% 
    include image.html url="/assets/images/Hoa-Sen-Trang.jpg"
                       description=" Hoa sen trắng "
-                      width="100%"
+                      width="96%"
                       height=""
 %}
 Nói chung, theo lời Phật dạy, các pháp hữu vi như sắc thân, thế giới, vọng tưởng chỉ là trò ảo mộng mà thôi, chúng ta phải quán sáu ví dụ đó để không bị chấp trước hay dính mắc vào một cái gì. Khi đó ta sẽ thấy được biển rộng trời cao, tâm lượng của ta biến thành rộng lớn, bao la như hư không, không bị vật gì ràng buộc, không gì làm trở ngại.  
