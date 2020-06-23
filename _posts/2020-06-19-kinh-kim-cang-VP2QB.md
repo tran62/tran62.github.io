@@ -1,5 +1,9 @@
 *Bài trong Kinh Kim Cang của Thày Vân Phong tặng anh Bảo lúc sắp ra đi June 19 2010*   
-Kim Le	- 19 juin 2020 à 22:09   
+Kim Le	- 19 juin 2020 à 22:09    
+>Anh Bao đa ra đi luc 7.40 ngày 22 tháng 6 giờ Montreal Tức ngay 2  
+>tháng 5 năm Canh tý  xin mọi ngừoi cầu  nguyện cho anh ấy và  
+>ráng   không khóc để anh ấy đựoc bình an ra đi không quyến  
+>luyến   NA 23-06-2020 6:44 
 
 一 切 有 爲 法 «Nhất thiết hữu vi pháp,  
 如 夢 幻 泡 影 Như mộng huyễn bào ảnh,  
