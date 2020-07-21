@@ -27,6 +27,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://tranax.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #url: "/Users/qat/Documents/jekyll/tranax.github.io"    # or "http://localhost:4000"
+gramps: "/assets/index.html"
 twitter_username: qatran
 github_username:  axtran
 #repository: "/Users/qat/Documents/jekyll/tranax.github.io"

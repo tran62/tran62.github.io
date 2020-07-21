@@ -47,15 +47,37 @@ BỔ SUNG LẠC KHOẢN:
 ### ***Lời bàn của Q-A***
 
 Trăng soi sáng, lời dậy toả ra muôn dặm như sóng biển.
-*Giáo hải vạn lý ba* làm Q-A nhớ đến bài thơ mà cố Sư bà Thích nữ Thể Quán, một vị có tiếng là hay chữ, trụ trì chùa *Hoàng Mai - Huế* có đố - ai là tác giả :
+*Giáo hải vạn lý ba* làm Q-A nhớ đến bài kệ chuỗi bên Phật câu:
 
-*Ái hà thiên xích lãng*   
-*Khổ hải vạn trùng ba*   
-*Dục thoát luân hồi khổ*   
-*Cấp cấp niệm Di-Đà.*
+                                    Ái hà thiên xích lãng,
 
-Đến bây giờ vẫn chưa ai tìm được tác giả.
-Ai tìm được, Q-A xin tặng 50 €.
+                                          愛 河 千 尺 浪
+
+                                    Khổ hải vạn trùng ba.
+
+                                          苦 海 萬 重 波
+
+                                    Dục thoát luân hồi khổ,
+
+                                          欲 脫 輪 迴 苦
+
+                                    Tảo cấp niệm Di Đà.
+
+                                          早 急 念 彌 陀  
+                                          
+{% 
+   include image.html url="/assets/images/ocean.jpeg"
+                      description="Vạn trùng ba"
+                      width="100%"
+                      height="100%"
+%}
+
+
+*Sông tình ngàn thước sóng,*   
+*Bể khổ  vạn dặm lan*   
+*Muốn thoát hoạ luân hồi*   
+*Sớm mau niệm Di Đà.*     
+
 
 Đạo Phật day cách thoát khổ, trong khi đạo Ky-Tô lại dục con chiên phải có tình yêu:
 
@@ -134,7 +156,7 @@ Ai tìm được, Q-A xin tặng 50 €.
 {% 
    include image.html url="/assets/images/Nguyen-Ung1.jpg"
                       description="ngài Nguyên Ứng"
-                      width="75%"
-                      height="75%"
+                      width="50%"
+                      height="50%"
 %}
 
