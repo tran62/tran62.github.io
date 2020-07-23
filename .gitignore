@@ -2,5 +2,7 @@ _site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
+.htaccess
+.htpasswd-file
 import
 node_modules
