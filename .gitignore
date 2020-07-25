@@ -2,7 +2,6 @@ _site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
-.htaccess
-.htpasswd-file
 import
+wp_import.rb
 node_modules
