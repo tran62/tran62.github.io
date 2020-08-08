@@ -24,8 +24,8 @@ email: qat@melix.net
 description: >- # this means to ignore newlines until "baseurl:"
   Ngoài mây thấy vũ trụ văn chương  
   - Bằng Vân 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://tranax.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl:  # the subpath of your site, e.g. /blog
+url: http://tranax.github.io # the base hostname & protocol for your site, e.g. http://example.com
 #url: "/Users/qat/Documents/jekyll/tranax.github.io"    # or "http://localhost:4000"
 gramps: "/assets/index.html"
 twitter_username: qatran
@@ -34,7 +34,7 @@ github_username:  axtran
 # Build settings
 theme: minima
 limit_posts: 12
-keep_files: [".htaccess", ".passwd-file"]
+keep_files: []
 plugins:
   - jekyll-feed
   - jekyll-admin

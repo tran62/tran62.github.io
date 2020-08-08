@@ -1,4 +1,4 @@
-*Bài trong Kinh Kim Cang tặng anh Bảo June 19 2020*  Kim Lê   
+*Bài trong Kinh Kim Cang thày VP tặng anh Bảo June 19 2020*  Kim Lê   
 >Anh Bao đã ra đi luc 7.40 ngày 22 tháng 6 giờ Montreal Tức ngay 2  
 >tháng 5 năm Canh tý  xin mọi ngừoi cầu  nguyện cho anh ấy NA  
 
@@ -21,7 +21,6 @@ Hãy quán chiếu như thế.
 
 .  
 
-Nhà thơ Tản Đà có mấy câu thơ “Giấc mộng mười năm đã tỉnh rồi”, “Nhưng mộng mà thôi mộng mất rồi”; hay như nói “Đời người như giấc mộng”… há không phải là ảnh hưởng từ chữ mộng trong Phật giáo hay sao?  
 
  Điện chớp cũng chỉ là hiện tượng thoáng qua, vô thường như vậy. Về ý này, thiền sư Vạn Hạnh có bài kệ:   
 
@@ -61,8 +60,6 @@ Thịnh suy như hạt sương rơi đầu cành.”
                       width="96%"
                       height=""
 %}
- Và khi các vô minh vọng chấp không còn thì chơn tâm thanh tịnh hiện ra, hay nói cách khác là tánh Kim Cang Bát-nhã như như bất động hiện ra mà không cần phải rong ruổi tìm cầu nơi nào hết.  
-
-TT Thích Tâm Chơn  
+   
 (Trích: [Bóng Trúc Bên Thềm của Tâm Chơn, Nhà xuất bản: Văn Hóa Thông Tin](https://quangduc.com/p5427a32758/bong-truc-ben-them){:target="_blank"})  
 --
