@@ -28,8 +28,11 @@ baseurl:  # the subpath of your site, e.g. /blog
 url: http://tran62.github.io # the base hostname & protocol for your site,
 # e.g. http://exampl/tran62.github.io"    
 #gramps: "/assets/index.html"
-twitter_username: qatran
-github_username:  tran62
+instagram_username: qatqat #quocanh.tran21@gmail.com
+linkedin_username: quoc-anh-tran-57587923 #quoc-anh.tran@m4x.org
+facebook_username: qat.ax # qat@melix.net
+twitter_username: qatran # qat@melix.net
+github_username:  tran62 # qat@melix.net
 #repository: "/Users/qat/Documents/jekyll/tranax.github.io"
 # Build settings
 theme: jekyll-theme-minimal
